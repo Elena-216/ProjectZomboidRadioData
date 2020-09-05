@@ -1,73 +1,73 @@
-//1756. ORIGINAL [#FF8080FF]: [img=music] If I could say... [img=music]
+//1756. ORIGINAL [#FF8080FF]: [img=music] If I could say... [img=music] 如果我可以说
 cde3e217-4636-4c90-b8eb-673baa2e7c4e =
 
-//1757. ORIGINAL [#FF8080FF]: [img=music] Anything that would make you stay. [img=music]
+//1757. ORIGINAL [#FF8080FF]: [img=music] Anything that would make you stay. [img=music] 任何话语来让你留下来。
 25e6e6e3-1463-42c0-bbbe-af351d3fc5cc = 
 
-//1758. ORIGINAL [#FF8080FF]: [img=music] You know I would. You know. [img=music]
+//1758. ORIGINAL [#FF8080FF]: [img=music] You know I would. You know. [img=music] 你知道我一定会的， 你知道的。 
 7f0901bb-4fed-4288-8374-771a736e1fd5 = 
 
-//1759. ORIGINAL [#FF8080FF]: [img=music] I never wanted to step in your way... [img=music]
+//1759. ORIGINAL [#FF8080FF]: [img=music] I never wanted to step in your way... [img=music] 我从来不想干涉你的生活
 379dc781-6a7c-47d4-82c3-9709ed1743b3 = 
 
-//1760. ORIGINAL [#FF8080FF]: [img=music] And you... you know you love me too, ooh... [img=music]
+//1760. ORIGINAL [#FF8080FF]: [img=music] And you... you know you love me too, ooh... [img=music] 并且你， 你也知道你也爱我， 哦。。。。
 91bb6cc4-50eb-4ab8-a872-692dfb9c1298 = 
 
-//1761. ORIGINAL [#FF8080FF]: [img=music] You love me too. [img=music]
+//1761. ORIGINAL [#FF8080FF]: [img=music] You love me too. [img=music] 你也爱我
 3414cd7b-96b6-4990-be59-c644f585d9f5 = 
 
-//1762. ORIGINAL [#FF8080FF]: [img=music] You do. [img=music]
+//1762. ORIGINAL [#FF8080FF]: [img=music] You do. [img=music] 你是的。 
 1d22858c-0cd1-42b4-889d-a9277ffb874d = 
 
-//1763. ORIGINAL [#FF8080FF]: [img=music] Sweetheart darling, you... [img=music]
+//1763. ORIGINAL [#FF8080FF]: [img=music] Sweetheart darling, you... [img=music] 亲爱的， 你。。。。。
 21c74b54-59b1-4aad-be9d-bc126fc93965 = 
 
-//1764. ORIGINAL [#FF8080FF]: [img=music] Do... [img=music]
+//1764. ORIGINAL [#FF8080FF]: [img=music] Do... [img=music] 是。。。
 b263cf56-222e-4688-bf54-5c4b65c163a2 = 
 
-//1765. ORIGINAL [#FF8080FF]: [img=music] You just know, right where I'll be. [img=music]
+//1765. ORIGINAL [#FF8080FF]: [img=music] You just know, right where I'll be. [img=music] 你知道， 我会在什么地方
 d4aa0c1b-1560-49f3-97b4-c88ee5159cb8 = 
 
-//1766. ORIGINAL [#FF8080FF]: [img=music] Just turn around. It's me you'll see. [img=music]
+//1766. ORIGINAL [#FF8080FF]: [img=music] Just turn around. It's me you'll see. [img=music] 只需要转身， 然后你会看见我
 8dfc1882-c695-44df-91b2-7eddaddf1bb1 = 
 
-//1767. ORIGINAL [#FF8080FF]: [img=music] I can't lie. [img=music]
+//1767. ORIGINAL [#FF8080FF]: [img=music] I can't lie. [img=music] 我不会撒谎
 64ce4ff8-0728-4884-b091-7e9823320834 = 
 
-//1768. ORIGINAL [#FF8080FF]: [img=music] You'll see me cry. [img=music]
+//1768. ORIGINAL [#FF8080FF]: [img=music] You'll see me cry. [img=music] 你会看到我哭泣
 8d1175f0-2431-4edd-9aaa-2fa4e1d12b2e = 
 
-//1769. ORIGINAL [#FF8080FF]: [img=music] You'll know that a true heart can bleed. [img=music]
+//1769. ORIGINAL [#FF8080FF]: [img=music] You'll know that a true heart can bleed. [img=music] 你知道， 一个真诚的心会流血
 62afca05-35b8-4243-b686-bf160368826f = 
 
-//1770. ORIGINAL [#FF8080FF]: [img=music] And you... you know you love me too, ooh. [img=music]
+//1770. ORIGINAL [#FF8080FF]: [img=music] And you... you know you love me too, ooh. [img=music] 并且你， 你也知道你爱着我， 哦。。。。
 8aa6b2be-38da-42c3-8a3a-98b83eb50ba9 = 
 
-//1771. ORIGINAL [#FFFFC000]: Hey you're back with Frankie on Knooox Hiiits...
+//1771. ORIGINAL [#FFFFC000]: Hey you're back with Frankie on Knooox Hiiits... 嗨， 欢迎回来， 我是佛兰克， 在诺克斯山上
 3e0f8f79-2475-4ad6-899d-edacf57149b5 = 
 
-//1772. ORIGINAL [#FFFFC000]: Scary days but we're pushing through till noon.
+//1772. ORIGINAL [#FFFFC000]: Scary days but we're pushing through till noon. 这是可怕的一天， 但是我们已经接近中午
 24f9beb6-3c7c-4196-b94b-cfc2f18af690 = 
 
 //1773. ORIGINAL [#FFFFC000]: Before I hit the button on Hidden, the new hit from The Question.
 70f4093a-adac-4bbf-9924-e65d1a7a8d5b = 
 
-//1774. ORIGINAL [#FFFFC000]: We've been asked to tell y'all:
+//1774. ORIGINAL [#FFFFC000]: We've been asked to tell y'all: 我们被告知来告诉你们所有人
 b995ec09-4182-444e-acbc-b4bea2cc0eb8 = 
 
-//1775. ORIGINAL [#FFFFC000]: Stay where you are.
+//1775. ORIGINAL [#FFFFC000]: Stay where you are. 请待在原地
 e6ff8a23-7544-4b74-9909-9b698de5049f = 
 
-//1776. ORIGINAL [#FFFFC000]: Lots of folk trying to come in, but y'all are blocking the roads.
+//1776. ORIGINAL [#FFFFC000]: Lots of folk trying to come in, but y'all are blocking the roads. 很多人们想要进来， 但是你们吧路都堵塞了
 4398b38e-22b8-4943-81a8-51b2077c7541 = 
 
-//1777. ORIGINAL [#FFFFC000]: Please help the military help you. Thank you.
+//1777. ORIGINAL [#FFFFC000]: Please help the military help you. Thank you. 请帮助军队， 让他们更好的帮助你们， 谢谢。
 31339a52-1088-49de-a9a0-1915178fc8ff = 
 
-//1778. ORIGINAL [#FFFFC000]: Okay that's the serious stuff here, been and gone.
+//1778. ORIGINAL [#FFFFC000]: Okay that's the serious stuff here, been and gone. 好了， 我们这里有一些重要的事情， 来了又消失了
 04976423-f296-46b6-9af5-af218b8900b8 = 
 
-//1779. ORIGINAL [#FFFFC000]: This one's for all of y'all.
+//1779. ORIGINAL [#FFFFC000]: This one's for all of y'all. 这是给你们所有人的信息
 c4d98af8-f95b-40d2-9acd-b7ed836ddaae = 
 
 //1780. ORIGINAL [#FF8080FF]: [img=music] It felt like the world couldn't spin right. [img=music]
@@ -1387,16 +1387,16 @@ ed794a35-aa43-4eb7-aebd-337ca84c1712 =
 //2218. ORIGINAL [#FF00B050]: Faith will let us grow.
 5a9f555d-d684-4b95-a0f5-0cda4d1d76e2 = 
 
-//2219. ORIGINAL [#FF00B050]: Y'know, I understand the pain.
+//2219. ORIGINAL [#FF00B050]: Y'know, I understand the pain.你知道， 我理解这种痛苦。
 5e08a424-4830-4dfc-aee2-90e599c47756 = 
 
 //2220. ORIGINAL [#FF00B050]: I'm not just some big-shot big mouth on the TV.
 ea5f568e-34e3-4c17-ac52-c0dc01506ea2 = 
 
-//2221. ORIGINAL [#FF00B050]: I'm worried too. I'm worried as hell.
+//2221. ORIGINAL [#FF00B050]: I'm worried too. I'm worried as hell. 我也非常的担心。 
 6806da90-a54c-47f6-a34b-d36716383eb5 = 
 
-//2222. ORIGINAL [#FF00B050]: I believe in our ability to deal with the Knox Event...
+//2222. ORIGINAL [#FF00B050]: I believe in our ability to deal with the Knox Event... 我坚信， 我们有能力处理好诺克斯事件。
 8e4a59ad-04c0-46bd-af98-a8a8129dd81c = 
 
 //2223. ORIGINAL [#FF00B050]: ... but there are unknowns. Unknowns make me nervous.
