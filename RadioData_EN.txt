@@ -3656,64 +3656,64 @@ e0f43cae-7d7c-4056-9502-c362143b5d5c =
 3ca24d1f-240d-49e2-b35e-597dbe6328a8 = 
 
 //2975. ORIGINAL [#FF00B050]: General! General!
-f9e10857-2306-4a04-b56f-0f747e88e7be = 
+f9e10857-2306-4a04-b56f-0f747e88e7be = 将军 ！ 将军 ！
 
 //2976. ORIGINAL [Red]: I said no questions Richard! When we have news you'll hear it.
-58338de1-50ed-4311-b94e-cc511e2a8d56 = 
+58338de1-50ed-4311-b94e-cc511e2a8d56 =  我说了， 不允许提问题， 理查德， 当我们有最新的消息的时候， 你会听到的。 
 
 //2977. ORIGINAL [#FFFFC000]: After shocking recent events we've been asking questions.
-a073173d-d56b-4ddf-886f-a096dc3219a9 = 
+a073173d-d56b-4ddf-886f-a096dc3219a9 =   在最近令人震惊的事件之后， 我们一直被询问这样的问题。
 
 //2978. ORIGINAL [#FFFFC000]: "How?", "Why?"
-ec8b5d09-ec0b-4763-a30c-1c72f7ee6b9d = 
+ec8b5d09-ec0b-4763-a30c-1c72f7ee6b9d =  怎么开始的 ？ 事情为什么会这样
 
 //2979. ORIGINAL [#FFFFC000]: With me tonight is Professor Peter Endsleigh...
-e25e6e27-1001-41ad-80c1-e1a468fe55a9 = 
+e25e6e27-1001-41ad-80c1-e1a468fe55a9 =  今晚跟我在一起的是皮特教授
 
 //2980. ORIGINAL [#FFFFC000]: ...who believes he has the answers.
-358907c0-53bf-4111-b38d-2f2826446ce6 = 
+358907c0-53bf-4111-b38d-2f2826446ce6 =  他认为他有答案
 
 //2981. ORIGINAL [#FF00B050]: I've been warning people for years.
-0e169720-c79b-48c6-8834-f36a652dd500 = 
+0e169720-c79b-48c6-8834-f36a652dd500 =  我一直警告人们数年了
 
 //2982. ORIGINAL [#FF00B050]: It's in the meat.
-6bcc7097-0ad8-4021-b95c-0e5640eee581 = 
+6bcc7097-0ad8-4021-b95c-0e5640eee581 =  它在肉里面
 
 //2983. ORIGINAL [#FF00B050]: We've been feeding our cows on their own kind.
-90a06275-f06f-4384-bb5a-1431206a2899 = 
+90a06275-f06f-4384-bb5a-1431206a2899 =  我们一直在用牛身上的产物， 来喂食我们的牛
 
 //2984. ORIGINAL [#FF00B050]: Misfolded prions. Brain matter fed back into the food chain.
-776cfc09-6101-4fe4-8192-96be888add67 = 
+776cfc09-6101-4fe4-8192-96be888add67 =  折叠错误的朊病毒。 大脑中的物质又被返回到食物链中， 以这种方式。
 
 //2985. ORIGINAL [#FF00B050]: These prions have been building up in countless generations of cattle.
-af0fc0c2-cb7b-43ed-bd51-290e11bf1a5d = 
+af0fc0c2-cb7b-43ed-bd51-290e11bf1a5d =  这种朊病毒已经在牛类中以无数代的样子增长繁殖
 
 //2986. ORIGINAL [#FF00B050]: This is quite clearly a neurological disorder.
-c615c381-d028-4520-9653-4ec8f73a7b3d = 
+c615c381-d028-4520-9653-4ec8f73a7b3d =  这很明显， 是神经系统的紊乱。
 
 //2987. ORIGINAL [#FF8080FF]: You think this is linked to the Mad Cow crisis?
-5c7e245c-1b95-4e60-b0c2-be49eaa0b075 = 
+5c7e245c-1b95-4e60-b0c2-be49eaa0b075 =  你认为这个与疯牛病有关联吗 ？
 
 //2988. ORIGINAL [#FF00B050]: This is the Mad Cow crisis. Or at least the next step.
-e1fb5f47-ce6c-4bc1-ac0e-0f1be39356b5 = 
+e1fb5f47-ce6c-4bc1-ac0e-0f1be39356b5 =  这就是当年的疯牛病危机， 或者至少是下一个阶段
 
 //2989. ORIGINAL [#FF00B050]: We've all been ingesting it for years.
-fffcbe71-dccf-40a3-a776-e79b3dcfb8d2 = 
+fffcbe71-dccf-40a3-a776-e79b3dcfb8d2 =  我们已经调查这个好几年了
 
 //2990. ORIGINAL [#FF00B050]: Every trip to Spiffos. Every pot roast.
-f000c8d8-fe06-479a-b0b9-9ad4636d20e3 = 
+f000c8d8-fe06-479a-b0b9-9ad4636d20e3 =  每一趟去 spiffo 的旅行， 每一块炖肉。 
 
 //2991. ORIGINAL [#FF00B050]: It's lain dormant, and now the Knox Event has set it free.
-8df463f6-6bbf-4e16-b643-f54faa0568a9 = 
+8df463f6-6bbf-4e16-b643-f54faa0568a9 =  它们一直在休眠， 但是现在这一个诺克斯事件已经把它们激活了。
 
 //2992. ORIGINAL [#FF8080FF]: Do you have evidence for this?
-c05b044c-5821-4410-9d54-5b2712976af5 = 
+c05b044c-5821-4410-9d54-5b2712976af5 =  你有关于这些推论的任何证据吗 ？
 
 //2993. ORIGINAL [#FF00B050]: I've got this whole book!
-e49397fd-74fe-43fd-a400-8c78e14d8f35 = 
+e49397fd-74fe-43fd-a400-8c78e14d8f35 =  我已经把这些都写成一本书了。
 
 //2994. ORIGINAL [#FF00B050]: Factory farming! That's what's caused this!
-4a3badd3-adc1-4aa3-887d-647548b1e2bb = 
+4a3badd3-adc1-4aa3-887d-647548b1e2bb =  工厂化的农场， 这就是导致这一切的原因。
 
 //2995. ORIGINAL [#FF00B050]: An endless ambivalence to what our nation eats!
 313b69b8-8363-4efa-adae-2aca3c304300 = 
